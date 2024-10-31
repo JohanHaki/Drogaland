@@ -887,3 +887,18 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'emojifu
 [31Oct2024 02:13:28.461] [VoiceChatServerThread/INFO] [voicechat/]: [voicechat] Voice host is 'account-mart.gl.at.ply.gg:2825'
 [31Oct2024 02:13:28.504] [VoiceChatServerThread/INFO] [voicechat/]: [voicechat] Voice chat server started at port 2825
 [31Oct2024 02:13:31.261] [Server thread/INFO] [coroutil/]: CoroUtil detected Serene Seasons Not Installed for use
+[31Oct2024 02:25:13.299] [User Authenticator #1/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player HakitoMC is d1ec50d2-aaa6-4e8a-be20-d1b179bb6bf7
+[31Oct2024 02:25:23.174] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@71eab53b
+[31Oct2024 02:25:23.216] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: HakitoMC[/127.161.213.124:50293] logged in with entity id 366 at (-493.6055357633866, 88.0, 59.69999998807907)
+[31Oct2024 02:25:23.268] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: HakitoMC joined the game
+[31Oct2024 02:25:25.943] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2791ms or 55 ticks behind
+[31Oct2024 02:25:35.867] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of HakitoMC (18)
+[31Oct2024 02:25:35.874] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to HakitoMC
+[31Oct2024 02:25:52.959] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12057ms or 241 ticks behind
+[31Oct2024 02:25:56.588] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player d1ec50d2-aaa6-4e8a-be20-d1b179bb6bf7
+[31Oct2024 02:25:57.585] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player d1ec50d2-aaa6-4e8a-be20-d1b179bb6bf7
+[31Oct2024 02:25:57.596] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player HakitoMC (d1ec50d2-aaa6-4e8a-be20-d1b179bb6bf7) successfully connected to voice chat
+[31Oct2024 02:26:03.166] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@78177cdc
+[31Oct2024 02:26:14.891] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-640, y=-9, z=269}
+[31Oct2024 02:28:50.069] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Made HakitoMC a server operator
+[31Oct2024 02:29:34.901] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [HakitoMC: Set own game mode to Creative Mode]
