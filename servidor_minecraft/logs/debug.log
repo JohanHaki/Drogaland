@@ -6839,3 +6839,11 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'emojifu
 [31Oct2024 02:28:43.539] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [31Oct2024 02:28:50.069] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Made HakitoMC a server operator
 [31Oct2024 02:29:34.901] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [HakitoMC: Set own game mode to Creative Mode]
+[31Oct2024 02:31:55.562] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [HakitoMC: Set spawn point to -507, 75, 82 [0.0] in minecraft:overworld for HakitoMC]
+[31Oct2024 02:32:24.402] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [HakitoMC: The difficulty has been set to Easy]
+[31Oct2024 02:32:30.621] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [HakitoMC: The difficulty has been set to Peaceful]
+[31Oct2024 02:33:43.264] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[31Oct2024 02:33:43.299] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[31Oct2024 02:35:08.602] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: HakitoMC has made the advancement [Alex's Mobs]
+[31Oct2024 02:38:43.272] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[31Oct2024 02:38:43.295] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

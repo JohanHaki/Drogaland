@@ -902,3 +902,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'emojifu
 [31Oct2024 02:26:14.891] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-640, y=-9, z=269}
 [31Oct2024 02:28:50.069] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Made HakitoMC a server operator
 [31Oct2024 02:29:34.901] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [HakitoMC: Set own game mode to Creative Mode]
+[31Oct2024 02:31:55.562] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [HakitoMC: Set spawn point to -507, 75, 82 [0.0] in minecraft:overworld for HakitoMC]
+[31Oct2024 02:32:24.402] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [HakitoMC: The difficulty has been set to Easy]
+[31Oct2024 02:32:30.621] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [HakitoMC: The difficulty has been set to Peaceful]
+[31Oct2024 02:35:08.602] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: HakitoMC has made the advancement [Alex's Mobs]
