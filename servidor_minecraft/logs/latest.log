@@ -906,3 +906,9 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'emojifu
 [31Oct2024 02:32:24.402] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [HakitoMC: The difficulty has been set to Easy]
 [31Oct2024 02:32:30.621] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [HakitoMC: The difficulty has been set to Peaceful]
 [31Oct2024 02:35:08.602] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: HakitoMC has made the advancement [Alex's Mobs]
+[31Oct2024 02:45:47.957] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Xhevit'/453, l='ServerLevel[world]', x=-444.55, y=27.00, z=83.18] died, message: 'Xhevit hit the ground too hard'
+[31Oct2024 02:45:47.959] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Xhevit'/453, l='ServerLevel[world]', x=-444.55, y=27.00, z=83.18] died: Xhevit fell from a high place
+[31Oct2024 02:46:24.512] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [HakitoMC: Set own game mode to Survival Mode]
+[31Oct2024 02:46:55.313] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: HakitoMC lost connection: Disconnected
+[31Oct2024 02:46:55.314] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: HakitoMC left the game
+[31Oct2024 02:46:55.318] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client HakitoMC
