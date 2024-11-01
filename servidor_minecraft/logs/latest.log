@@ -903,3 +903,17 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'emojifu
 [01Nov2024 16:59:55.048] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: HakitoMC left the game
 [01Nov2024 16:59:55.058] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client HakitoMC
 [01Nov2024 16:59:55.708] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10624ms or 212 ticks behind
+[01Nov2024 17:08:31.439] [User Authenticator #3/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player NunnxOMG is ca12d287-ea1f-4162-93e4-8f938e9725a2
+[01Nov2024 17:08:35.937] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@390a81be
+[01Nov2024 17:08:35.951] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: NunnxOMG[/127.161.213.124:41863] logged in with entity id 744 at (10.5, 68.0, 58.5)
+[01Nov2024 17:08:35.985] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: NunnxOMG joined the game
+[01Nov2024 17:08:36.102] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: NunnxOMG has made the advancement [Halloween]
+[01Nov2024 17:08:39.087] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of NunnxOMG (18)
+[01Nov2024 17:08:39.110] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to NunnxOMG
+[01Nov2024 17:08:48.135] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player ca12d287-ea1f-4162-93e4-8f938e9725a2
+[01Nov2024 17:08:49.182] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player ca12d287-ea1f-4162-93e4-8f938e9725a2
+[01Nov2024 17:08:49.187] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player NunnxOMG (ca12d287-ea1f-4162-93e4-8f938e9725a2) successfully connected to voice chat
+[01Nov2024 17:10:13.323] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: NunnxOMG has made the advancement [Minecraft Comes Alive]
+[01Nov2024 17:10:20.466] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: NunnxOMG has made the advancement [Alex's Mobs]
+[01Nov2024 17:11:03.784] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: NunnxOMG has made the advancement [Sweet Dreams]
+[01Nov2024 17:15:01.493] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: NunnxOMG has made the advancement [Mine? Mine? Mine?]
