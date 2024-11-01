@@ -940,3 +940,28 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'emojifu
 [01Nov2024 17:54:34.469] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: HakitoMC has made the advancement [Stone Age]
 [01Nov2024 17:56:55.529] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Vullnet'/2009, l='ServerLevel[world]', x=-445.37, y=25.00, z=85.75] died, message: 'Vullnet hit the ground too hard'
 [01Nov2024 17:56:55.531] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Vullnet'/2009, l='ServerLevel[world]', x=-445.37, y=25.00, z=85.75] died: Vullnet fell from a high place
+[01Nov2024 18:00:41.901] [User Authenticator #4/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player NunnxOMG is ca12d287-ea1f-4162-93e4-8f938e9725a2
+[01Nov2024 18:00:45.990] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@599b175d
+[01Nov2024 18:00:46.016] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: NunnxOMG[/127.161.213.124:40367] logged in with entity id 4826 at (-498.69999998807907, 88.0, 57.5)
+[01Nov2024 18:00:46.074] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: NunnxOMG joined the game
+[01Nov2024 18:00:46.488] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of NunnxOMG (18)
+[01Nov2024 18:00:46.492] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to NunnxOMG
+[01Nov2024 18:00:52.727] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player ca12d287-ea1f-4162-93e4-8f938e9725a2
+[01Nov2024 18:00:53.731] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player ca12d287-ea1f-4162-93e4-8f938e9725a2
+[01Nov2024 18:00:53.732] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player NunnxOMG (ca12d287-ea1f-4162-93e4-8f938e9725a2) successfully connected to voice chat
+[01Nov2024 18:00:56.486] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [HakitoMC: Killed NunnxOMG]
+[01Nov2024 18:00:58.838] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NunnxOMG lost connection: Disconnected
+[01Nov2024 18:00:58.842] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: NunnxOMG left the game
+[01Nov2024 18:00:58.843] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client NunnxOMG
+[01Nov2024 18:01:02.374] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: HakitoMC has made the advancement [Acquire Hardware]
+[01Nov2024 18:01:49.876] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: HakitoMC has made the advancement [Suit Up]
+[01Nov2024 18:03:50.131] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: HakitoMC has made the advancement [Not Today, Thank You]
+[01Nov2024 18:05:13.582] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: HakitoMC is bleeding. HakitoMC was shot by Skeleton
+[01Nov2024 18:05:13.583] [Server thread/WARN] [tombstone/]: The death event of the player HakitoMC was canceled by another mod
+[01Nov2024 18:05:13.585] [Server thread/INFO] [tombstone/]: The player HakitoMC has successfully been saved
+[01Nov2024 18:05:23.044] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: HakitoMC was shot by Skeleton
+[01Nov2024 18:05:38.645] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: HakitoMC has made the advancement [Chest Slayer]
+[01Nov2024 18:05:41.033] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: HakitoMC has made the advancement [Amateur Archaeologist]
+[01Nov2024 18:07:55.653] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: HakitoMC lost connection: Disconnected
+[01Nov2024 18:07:55.654] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: HakitoMC left the game
+[01Nov2024 18:07:55.655] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client HakitoMC
