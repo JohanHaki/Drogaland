@@ -908,3 +908,51 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'emojifu
 [01Nov2024 19:56:03.599] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: HakitoMC[/127.161.213.124:60731] logged in with entity id 726 at (-472.8006545601994, 15.875, 94.69999998807907)
 [01Nov2024 19:56:03.642] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: HakitoMC joined the game
 [01Nov2024 19:56:10.666] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[01Nov2024 19:56:24.724] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of HakitoMC (18)
+[01Nov2024 19:56:24.726] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to HakitoMC
+[01Nov2024 19:56:54.556] [User Authenticator #3/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player NunnxOMG is ca12d287-ea1f-4162-93e4-8f938e9725a2
+[01Nov2024 19:57:05.030] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@1d20f0ed
+[01Nov2024 19:57:05.047] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: NunnxOMG[/127.161.213.124:52205] logged in with entity id 1173 at (-498.69999998807907, 88.0, 57.5)
+[01Nov2024 19:57:05.056] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: NunnxOMG joined the game
+[01Nov2024 19:57:06.532] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player d1ec50d2-aaa6-4e8a-be20-d1b179bb6bf7
+[01Nov2024 19:57:07.562] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player d1ec50d2-aaa6-4e8a-be20-d1b179bb6bf7
+[01Nov2024 19:57:07.563] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player HakitoMC (d1ec50d2-aaa6-4e8a-be20-d1b179bb6bf7) successfully connected to voice chat
+[01Nov2024 19:57:09.204] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of NunnxOMG (18)
+[01Nov2024 19:57:09.205] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to NunnxOMG
+[01Nov2024 19:57:40.883] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player ca12d287-ea1f-4162-93e4-8f938e9725a2
+[01Nov2024 19:57:41.890] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player ca12d287-ea1f-4162-93e4-8f938e9725a2
+[01Nov2024 19:57:41.891] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player NunnxOMG (ca12d287-ea1f-4162-93e4-8f938e9725a2) successfully connected to voice chat
+[01Nov2024 19:57:43.606] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: HakitoMC is bleeding. HakitoMC was slain by Zombie
+[01Nov2024 19:57:43.608] [Server thread/WARN] [tombstone/]: The death event of the player HakitoMC was canceled by another mod
+[01Nov2024 19:57:43.681] [Server thread/INFO] [tombstone/]: The player HakitoMC has successfully been saved
+[01Nov2024 19:57:51.374] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: HakitoMC was slain by Zombie
+[01Nov2024 19:57:51.875] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NunnxOMG lost connection: Disconnected
+[01Nov2024 19:57:51.875] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: NunnxOMG left the game
+[01Nov2024 19:57:51.876] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client NunnxOMG
+[01Nov2024 19:58:03.103] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-469, y=16, z=89}
+[01Nov2024 20:02:23.472] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player d1ec50d2-aaa6-4e8a-be20-d1b179bb6bf7 timed out
+[01Nov2024 20:02:23.473] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player HakitoMC
+[01Nov2024 20:02:23.476] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to HakitoMC
+[01Nov2024 20:02:29.917] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player d1ec50d2-aaa6-4e8a-be20-d1b179bb6bf7
+[01Nov2024 20:07:12.568] [User Authenticator #4/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player NunnxOMG is ca12d287-ea1f-4162-93e4-8f938e9725a2
+[01Nov2024 20:07:24.576] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@ab093ba
+[01Nov2024 20:07:24.589] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: NunnxOMG[/127.161.213.124:45571] logged in with entity id 2832 at (-498.69999998807907, 88.0, 57.5)
+[01Nov2024 20:07:24.597] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: NunnxOMG joined the game
+[01Nov2024 20:08:14.718] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@3a7fdc89
+[01Nov2024 20:08:34.339] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of NunnxOMG (18)
+[01Nov2024 20:08:34.341] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to NunnxOMG
+[01Nov2024 20:08:47.034] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player ca12d287-ea1f-4162-93e4-8f938e9725a2
+[01Nov2024 20:08:48.031] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player ca12d287-ea1f-4162-93e4-8f938e9725a2
+[01Nov2024 20:08:48.032] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player NunnxOMG (ca12d287-ea1f-4162-93e4-8f938e9725a2) successfully connected to voice chat
+[01Nov2024 20:09:04.948] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player ca12d287-ea1f-4162-93e4-8f938e9725a2 timed out
+[01Nov2024 20:09:04.949] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player NunnxOMG
+[01Nov2024 20:09:04.949] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to NunnxOMG
+[01Nov2024 20:09:09.682] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NunnxOMG lost connection: Timed out
+[01Nov2024 20:09:09.683] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: NunnxOMG left the game
+[01Nov2024 20:09:09.684] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client NunnxOMG
+[01Nov2024 20:09:09.806] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[01Nov2024 20:10:47.486] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-102, y=-51, z=-161}
+[01Nov2024 20:10:47.487] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-102, y=-51, z=-159}
+[01Nov2024 20:11:02.317] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: HakitoMC lost connection: Disconnected
+[01Nov2024 20:11:02.318] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: HakitoMC left the game
+[01Nov2024 20:11:02.319] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client HakitoMC
