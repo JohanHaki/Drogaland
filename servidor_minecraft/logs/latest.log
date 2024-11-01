@@ -917,3 +917,66 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'emojifu
 [01Nov2024 17:10:20.466] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: NunnxOMG has made the advancement [Alex's Mobs]
 [01Nov2024 17:11:03.784] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: NunnxOMG has made the advancement [Sweet Dreams]
 [01Nov2024 17:15:01.493] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: NunnxOMG has made the advancement [Mine? Mine? Mine?]
+[01Nov2024 17:16:38.483] [User Authenticator #4/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player HakitoMC is d1ec50d2-aaa6-4e8a-be20-d1b179bb6bf7
+[01Nov2024 17:16:52.657] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@62cfed86
+[01Nov2024 17:16:52.679] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: HakitoMC[/127.161.213.124:51955] logged in with entity id 4528 at (-506.95740082867616, 83.5, 73.32810550512416)
+[01Nov2024 17:16:52.733] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: HakitoMC joined the game
+[01Nov2024 17:16:53.078] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[01Nov2024 17:17:10.301] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of HakitoMC (18)
+[01Nov2024 17:17:10.302] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to HakitoMC
+[01Nov2024 17:17:51.799] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player d1ec50d2-aaa6-4e8a-be20-d1b179bb6bf7
+[01Nov2024 17:17:52.802] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player d1ec50d2-aaa6-4e8a-be20-d1b179bb6bf7
+[01Nov2024 17:17:52.803] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player HakitoMC (d1ec50d2-aaa6-4e8a-be20-d1b179bb6bf7) successfully connected to voice chat
+[01Nov2024 17:18:30.312] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: NunnxOMG has made the advancement [Stone Age]
+[01Nov2024 17:18:36.648] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Haxhi'/1141, l='ServerLevel[world]', x=-444.43, y=23.00, z=83.52] died, message: 'Haxhi hit the ground too hard'
+[01Nov2024 17:18:36.649] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Haxhi'/1141, l='ServerLevel[world]', x=-444.43, y=23.00, z=83.52] died: Haxhi fell from a high place
+[01Nov2024 17:18:59.249] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: NunnxOMG has made the advancement [Getting an Upgrade]
+[01Nov2024 17:24:37.112] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: NunnxOMG has made the advancement [Monster Hunter]
+[01Nov2024 17:25:13.104] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Hamide'/1142, l='ServerLevel[world]', x=-410.57, y=20.00, z=50.08] died, message: 'Hamide was slain by Zombie'
+[01Nov2024 17:25:13.112] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Hamide'/1142, l='ServerLevel[world]', x=-410.57, y=20.00, z=50.08] died: Hamide was slain by Zombie
+[01Nov2024 17:25:28.543] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: HakitoMC has made the advancement [Mine? Mine? Mine?]
+[01Nov2024 17:25:48.898] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: HakitoMC has made the advancement [Isn't It Iron Pick]
+[01Nov2024 17:26:51.161] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: NunnxOMG is bleeding. NunnxOMG was shot by Skeleton
+[01Nov2024 17:26:51.162] [Server thread/WARN] [tombstone/]: The death event of the player NunnxOMG was canceled by another mod
+[01Nov2024 17:26:51.169] [Server thread/INFO] [tombstone/]: The player NunnxOMG has successfully been saved
+[01Nov2024 17:27:09.700] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: NunnxOMG was shot by Skeleton
+[01Nov2024 17:27:09.714] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: NunnxOMG has made the advancement [Your First Grave]
+[01Nov2024 17:27:11.017] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: NunnxOMG has made the advancement [The Most Useful Key]
+[01Nov2024 17:27:14.323] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NunnxOMG lost connection: Disconnected
+[01Nov2024 17:27:14.332] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: NunnxOMG left the game
+[01Nov2024 17:27:14.335] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client NunnxOMG
+[01Nov2024 17:30:03.397] [User Authenticator #5/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player NunnxOMG is ca12d287-ea1f-4162-93e4-8f938e9725a2
+[01Nov2024 17:30:15.027] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@1dba3829
+[01Nov2024 17:30:15.092] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: NunnxOMG[/127.161.213.124:33169] logged in with entity id 8188 at (-498.5, 88.0, 57.5)
+[01Nov2024 17:30:15.121] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: NunnxOMG joined the game
+[01Nov2024 17:30:18.997] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NunnxOMG lost connection: Disconnected
+[01Nov2024 17:30:19.000] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: NunnxOMG left the game
+[01Nov2024 17:30:19.002] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client NunnxOMG
+[01Nov2024 17:32:16.629] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [HakitoMC: Set spawn point to -507, 75, 82 [0.0] in minecraft:overworld for HakitoMC]
+[01Nov2024 17:33:46.186] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: HakitoMC moved too quickly! 3.734874381150007,1.0244240882136921,-9.452050211232333
+[01Nov2024 17:33:46.187] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2203ms or 44 ticks behind
+[01Nov2024 17:33:58.503] [User Authenticator #6/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player NunnxOMG is ca12d287-ea1f-4162-93e4-8f938e9725a2
+[01Nov2024 17:34:07.217] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@1524e5a2
+[01Nov2024 17:34:07.245] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: NunnxOMG[/127.161.213.124:56139] logged in with entity id 9444 at (-498.5, 88.0, 57.5)
+[01Nov2024 17:34:07.264] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: NunnxOMG joined the game
+[01Nov2024 17:34:14.552] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of NunnxOMG (18)
+[01Nov2024 17:34:14.553] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to NunnxOMG
+[01Nov2024 17:34:40.646] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player ca12d287-ea1f-4162-93e4-8f938e9725a2
+[01Nov2024 17:34:41.727] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player ca12d287-ea1f-4162-93e4-8f938e9725a2
+[01Nov2024 17:34:41.728] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player NunnxOMG (ca12d287-ea1f-4162-93e4-8f938e9725a2) successfully connected to voice chat
+[01Nov2024 17:34:53.018] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player ca12d287-ea1f-4162-93e4-8f938e9725a2 timed out
+[01Nov2024 17:34:53.023] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player NunnxOMG
+[01Nov2024 17:34:53.024] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to NunnxOMG
+[01Nov2024 17:34:56.252] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NunnxOMG lost connection: Disconnected
+[01Nov2024 17:34:56.254] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: NunnxOMG left the game
+[01Nov2024 17:34:56.263] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client NunnxOMG
+[01Nov2024 17:34:58.227] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [HakitoMC: Set spawn point to -507, 75, 82 [0.0] in minecraft:overworld for HakitoMC]
+[01Nov2024 17:35:26.254] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: HakitoMC is bleeding. HakitoMC was slain by Iron Golem
+[01Nov2024 17:35:26.259] [Server thread/WARN] [tombstone/]: The death event of the player HakitoMC was canceled by another mod
+[01Nov2024 17:35:26.291] [Server thread/INFO] [tombstone/]: The player HakitoMC has successfully been saved
+[01Nov2024 17:35:32.878] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: HakitoMC was slain by Iron Golem
+[01Nov2024 17:35:32.890] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: HakitoMC has made the advancement [Your First Grave]
+[01Nov2024 17:35:34.647] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: HakitoMC has made the advancement [The Most Useful Key]
+[01Nov2024 17:35:42.144] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: HakitoMC has made the advancement [Knowledge of Death]
+[01Nov2024 17:35:42.145] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: HakitoMC has reached the goal [A Fast Comeback]
+[01Nov2024 17:35:47.933] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: HakitoMC has reached the goal [Here They Come]
